@@ -1,7 +1,7 @@
 <?php 
 function Connect()
 {
-	$dbhost = "localhost/phpMyAdmin";
+	$dbhost = "localhost";
 	$dbuser = "root";
 	$dbpass = "Acgchennai#1";
 	$dbname = "asset";
